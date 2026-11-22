@@ -1,42 +1,7 @@
 {
   "username": "ArnavSahu26",
-  "generated_at": "2026-11-21T13:11:23.552548+00:00",
+  "generated_at": "2026-11-22T12:59:57.030614+00:00",
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-17",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-18",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-22",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-23",
       "count": 0,
@@ -1854,23 +1819,28 @@
     },
     {
       "date": "2026-11-21",
+      "count": 2,
+      "level": 1
+    },
+    {
+      "date": "2026-11-22",
       "count": 1,
       "level": 1
     }
   ],
   "stats": {
-    "total": 224,
-    "current_streak": 4,
+    "total": 226,
+    "current_streak": 5,
     "longest_streak": 95,
     "busiest_weekday": "Tue",
     "weekday_totals": {
-      "Sun": 36,
+      "Sun": 37,
       "Mon": 32,
       "Tue": 47,
       "Wed": 31,
       "Thu": 23,
       "Fri": 32,
-      "Sat": 23
+      "Sat": 24
     }
   }
 }
